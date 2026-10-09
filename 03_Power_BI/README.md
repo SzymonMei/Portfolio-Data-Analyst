@@ -1,4 +1,7 @@
 # Analiza sprzedaży firmy | Power BI | 2024–2025
+## Podgląd dashboardu
+
+![Dashboard analizy sprzedaży](Dashboard_sprzedazy.png)
 
 ## Cel projektu
 Celem projektu była analiza wyników sprzedażowych fikcyjnej firmy handlowej w latach 2024–2025 oraz przygotowanie interaktywnego raportu wspierającego podejmowanie decyzji biznesowych.
