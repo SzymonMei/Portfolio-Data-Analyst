@@ -35,12 +35,3 @@ Wykonałem między innymi:
 - Liczba zamówień zrealizowanych: 8370.
 - Liczba zamówień anulowanych: 630.
 
-## Czego nauczyłem się podczas projektu?
-
-Podczas pracy z danymi przećwiczyłem korzystanie z tabel przestawnych, analizowanie większych zbiorów danych oraz tworzenie wykresów.
-
-Nauczyłem się również, jak ważne jest poprawne liczenie unikalnych zamówień, ponieważ jedno zamówienie może zawierać kilka produktów.
-
-## Plik projektu
-
-[Otwórz plik Excel](<Pliki do Analizy sprzedaży firmy.xlsx>)
